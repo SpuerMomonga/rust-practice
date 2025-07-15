@@ -3,6 +3,7 @@
     "rust-analyzer.check.allTargets": true,
 	"rust-analyzer.check.features": "all",
     "[rust]": {
+        "editor.formatOnSave": true,
         "editor.defaultFormatter": "rust-lang.rust-analyzer"
     }
 }

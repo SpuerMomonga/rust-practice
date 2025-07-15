@@ -1,0 +1,9 @@
+[package]
+name = "basics"
+version = "0.0.0"
+publish = false
+readme = "README.md"
+license.workspace = true
+edition.workspace = true
+
+[dependencies]

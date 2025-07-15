@@ -1,0 +1,8 @@
+[workspace]
+members = [
+  "crates/thread",
+]
+
+[workspace.package]
+license = "MIT"
+edition = "2021"

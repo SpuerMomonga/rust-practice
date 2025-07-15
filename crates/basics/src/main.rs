@@ -179,6 +179,10 @@ fn main() {
     // `for` 循环
     let array = [1, 2, 3];
     for i in array {
+        if i == 2 {
+            // 跳出单次循环
+            continue;
+        }
         println!("{}", i);
     }
 

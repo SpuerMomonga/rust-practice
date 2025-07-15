@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "fill-labs.dependi",
+        "tamasfe.even-better-toml",
+        "usernamehw.errorlens",
+        "rust-lang.rust-analyzer",
+        "hdevalke.rust-test-lens",
+        "Swellaby.vscode-rust-test-adapter",
+        "wayou.vscode-todo-highlight",
+        "redhat.vscode-yaml"
+    ]
+}

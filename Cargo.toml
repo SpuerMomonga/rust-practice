@@ -1,6 +1,7 @@
 [workspace]
 members = [
   "crates/basics",
+  "crates/process",
   "crates/thread",
 ]
 
